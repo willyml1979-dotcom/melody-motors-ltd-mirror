@@ -1,6 +1,6 @@
 {
   "dealership": "Melody Motors Ltd",
-  "generated_at": "2026-09-26T12:17:06",
+  "generated_at": "2026-10-08T14:41:21",
   "vehicle_count": 113,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "1GTHK29G86E249036",
       "stock": "NUMBER",
       "color": "Brown",
+      "trim": "SLT",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/612d2cfffa41.html",
       "source_url": "https://www.melodyford.ca/used/2006-GMC-Sierra_2500-id14261335.html",
       "dealer_url": "https://www.melodyford.ca/used/2006-GMC-Sierra_2500-id14261335.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -17,8 +18,10 @@
       "odometer_km": 283126,
       "year": 2006,
       "make": "GMC",
-      "model": "Sierra 2500 SLT, 8.1L VORTEC V8, SUPER CAB LONG BOX, PROPANE AND GAS CONVERSION (RUNS OF BOTH)in Kimberley",
-      "condition": "used"
+      "model": "Sierra 2500",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2006 GMC Sierra 2500 ",
@@ -34,7 +37,9 @@
       "year": 2006,
       "make": "GMC",
       "model": "Sierra 2500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2006 GMC Sierra 2500 ",
@@ -50,13 +55,16 @@
       "year": 2006,
       "make": "GMC",
       "model": "Sierra 2500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2015 Ford Super Duty F-250 SRW XLT 6.2L V8, CREW CAB 8' BOX, 3.73 REAR RATIO, TAIL GATE STEP, ALL WEATHER MATS, ROOF LIGHTSin Kimberley",
       "vin": "1FT7W2B60FEA19492",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "F-250 SRW XLT V8",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/7ef74cb818d2.html",
       "source_url": "https://www.melodyford.ca/used/2015-Ford-Super_Duty_F_250_SRW-id14215806.html",
       "dealer_url": "https://www.melodyford.ca/used/2015-Ford-Super_Duty_F_250_SRW-id14215806.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -66,14 +74,17 @@
       "odometer_km": 266335,
       "year": 2015,
       "make": "Ford",
-      "model": "Super Duty F-250 SRW XLT 6.2L V8, CREW CAB 8' BOX, 3.73 REAR RATIO, TAIL GATE STEP, ALL WEATHER MATS, ROOF LIGHTSin Kimberley",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2015 Ford Super Duty F-250 SRW ",
       "vin": "1FT7W2B60FEA19492",
       "stock": 14215806,
       "color": "Silver",
+      "trim": "F-250 SRW",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/fcbccbfef083.html",
       "source_url": "https://www.melodyford.ca/used/2015-Ford-Super_Duty_F_250_SRW.html",
       "dealer_url": "https://www.melodyford.ca/used/2015-Ford-Super_Duty_F_250_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -82,14 +93,17 @@
       "price_currency": "CAD",
       "year": 2015,
       "make": "Ford",
-      "model": "Super Duty F-250 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2015 Ford Super Duty F-250 SRW ",
       "vin": "1FT7W2B60FEA19492",
       "stock": 14215806,
       "color": "Silver",
+      "trim": "F-250 SRW",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/fcbccbfef083.html",
       "source_url": "https://www.melodyford.ca/used/2015-Ford-Super_Duty_F_250_SRW.html",
       "dealer_url": "https://www.melodyford.ca/used/2015-Ford-Super_Duty_F_250_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -98,14 +112,17 @@
       "price_currency": "CAD",
       "year": 2015,
       "make": "Ford",
-      "model": "Super Duty F-250 SRW",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2016 RAM 1500 Sport, 5.7L V8, CREW CAB, 20\" WHEELin Kimberley",
       "vin": "1C6RR7MT6GS122166",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/92ae517157bb.html",
       "source_url": "https://www.melodyford.ca/used/2016-RAM-1500-id14128940.html",
       "dealer_url": "https://www.melodyford.ca/used/2016-RAM-1500-id14128940.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -115,8 +132,10 @@
       "odometer_km": 163871,
       "year": 2016,
       "make": "RAM",
-      "model": "1500 Sport, 5.7L V8, CREW CAB, 20\" WHEELin Kimberley",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2016 RAM 1500 ",
@@ -132,7 +151,9 @@
       "year": 2016,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2016 RAM 1500 ",
@@ -148,12 +169,15 @@
       "year": 2016,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2018 GMC Yukon Denaliin Kimberley",
       "vin": "1GKS2CKJ6JR227138",
       "stock": "NUMBER",
+      "trim": "Denaliin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/3cd1f7029615.html",
       "source_url": "https://www.melodyford.ca/used/2018-GMC-Yukon-id14327519.html",
       "dealer_url": "https://www.melodyford.ca/used/2018-GMC-Yukon-id14327519.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -163,8 +187,10 @@
       "odometer_km": 172856,
       "year": 2018,
       "make": "GMC",
-      "model": "Yukon Denaliin Kimberley",
-      "condition": "used"
+      "model": "Yukon",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2018 GMC Yukon ",
@@ -179,7 +205,9 @@
       "year": 2018,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2018 GMC Yukon ",
@@ -194,12 +222,15 @@
       "year": 2018,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Super Duty F-350 SRW 6.7L V8 DIESEL, 6.75' BOX, CREW CAB XLT PREMIUM, HTD SEATS, 5TH WHEEL PREP, TAIL STEP, SPRAY IN LINEin Kimberley",
       "vin": "1FT8W3BT5KEC01246",
       "stock": "NUMBER",
+      "trim": "F-350 SRW V8 DIESEL",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/ba613ae6b655.html",
       "source_url": "https://www.melodyford.ca/used/2019-Ford-Super_Duty_F_350_SRW-id14261337.html",
       "dealer_url": "https://www.melodyford.ca/used/2019-Ford-Super_Duty_F_350_SRW-id14261337.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -209,13 +240,16 @@
       "odometer_km": 139685,
       "year": 2019,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW 6.7L V8 DIESEL, 6.75' BOX, CREW CAB XLT PREMIUM, HTD SEATS, 5TH WHEEL PREP, TAIL STEP, SPRAY IN LINEin Kimberley",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT5KEC01246",
       "stock": 14261337,
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/4ebc4cf9b7d9.html",
       "source_url": "https://www.melodyford.ca/used/2019-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.melodyford.ca/used/2019-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -224,13 +258,16 @@
       "price_currency": "CAD",
       "year": 2019,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT5KEC01246",
       "stock": 14261337,
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/4ebc4cf9b7d9.html",
       "source_url": "https://www.melodyford.ca/used/2019-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.melodyford.ca/used/2019-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -239,14 +276,17 @@
       "price_currency": "CAD",
       "year": 2019,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 XLTin Kimberley",
       "vin": "1FTFX1E41LKD54450",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "XLTin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/173e1dc40c75.html",
       "source_url": "https://www.melodyford.ca/used/2020-Ford-F_150-id14346038.html",
       "dealer_url": "https://www.melodyford.ca/used/2020-Ford-F_150-id14346038.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -256,8 +296,10 @@
       "odometer_km": 280059,
       "year": 2020,
       "make": "Ford",
-      "model": "F-150 XLTin Kimberley",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -273,7 +315,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -289,12 +333,15 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra Sportin Kimberley",
       "vin": "KMHD04LB7LU038209",
       "stock": "NUMBER",
+      "trim": "Sportin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/4a6f3730fc1c.html",
       "source_url": "https://www.melodyford.ca/used/2020-Hyundai-Elantra-id14310799.html",
       "dealer_url": "https://www.melodyford.ca/used/2020-Hyundai-Elantra-id14310799.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -304,8 +351,10 @@
       "odometer_km": 44666,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Elantra Sportin Kimberley",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra ",
@@ -320,7 +369,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra ",
@@ -335,13 +386,16 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota Sequoia LIMITED 4X4, 5.7L V8, 8 PASS CONFIG, LEATHER HEATED SEATS, SUN ROOF, HITCH, BRAKE CONTROLLERin Kimberley",
       "vin": "5TDJY5G12LS177837",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/ef0e4b40744a.html",
       "source_url": "https://www.melodyford.ca/used/2020-Toyota-Sequoia-id14111126.html",
       "dealer_url": "https://www.melodyford.ca/used/2020-Toyota-Sequoia-id14111126.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -351,8 +405,10 @@
       "odometer_km": 143955,
       "year": 2020,
       "make": "Toyota",
-      "model": "Sequoia LIMITED 4X4, 5.7L V8, 8 PASS CONFIG, LEATHER HEATED SEATS, SUN ROOF, HITCH, BRAKE CONTROLLERin Kimberley",
-      "condition": "used"
+      "model": "Sequoia",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota Sequoia ",
@@ -368,7 +424,9 @@
       "year": 2020,
       "make": "Toyota",
       "model": "Sequoia",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2020 Toyota Sequoia ",
@@ -384,12 +442,15 @@
       "year": 2020,
       "make": "Toyota",
       "model": "Sequoia",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Malibu LTin Kimberley",
       "vin": "1G1ZD5ST7MF036263",
       "stock": "NUMBER",
+      "trim": "LTin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/dc5d9482c313.html",
       "source_url": "https://www.melodyford.ca/used/2021-Chevrolet-Malibu-id14310798.html",
       "dealer_url": "https://www.melodyford.ca/used/2021-Chevrolet-Malibu-id14310798.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -399,8 +460,10 @@
       "odometer_km": 69883,
       "year": 2021,
       "make": "Chevrolet",
-      "model": "Malibu LTin Kimberley",
-      "condition": "used"
+      "model": "Malibu",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Malibu ",
@@ -415,7 +478,9 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2021 Chevrolet Malibu ",
@@ -430,12 +495,15 @@
       "year": 2021,
       "make": "Chevrolet",
       "model": "Malibu",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Cherokee Sportin Kimberley",
       "vin": "1C4PJMAB8MD225011",
       "stock": "NUMBER",
+      "trim": "Sportin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/f8cc64cc2090.html",
       "source_url": "https://www.melodyford.ca/used/2021-Jeep-Cherokee-id14327522.html",
       "dealer_url": "https://www.melodyford.ca/used/2021-Jeep-Cherokee-id14327522.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -445,8 +513,10 @@
       "odometer_km": 37951,
       "year": 2021,
       "make": "Jeep",
-      "model": "Cherokee Sportin Kimberley",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Cherokee ",
@@ -461,7 +531,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Cherokee ",
@@ -476,7 +548,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco Sport ",
@@ -492,12 +566,15 @@
       "year": 2022,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Expedition Platinum Maxin Kimberley",
       "vin": "1FMJK1MT3NEA38904",
       "stock": "NUMBER",
+      "trim": "Platinum Maxin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/f15021844376.html",
       "source_url": "https://www.melodyford.ca/used/2022-Ford-Expedition-id14398560.html",
       "dealer_url": "https://www.melodyford.ca/used/2022-Ford-Expedition-id14398560.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -506,8 +583,10 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "Ford",
-      "model": "Expedition Platinum Maxin Kimberley",
-      "condition": "used"
+      "model": "Expedition",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Expedition ",
@@ -522,13 +601,16 @@
       "year": 2022,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 Platinum 701A, 3.5L V6 ECO, 5.5' BOX, MOON ROOF, MAX TOW, FX4, HTD/COOLED BUCKET SEATS, TONNEAUin Kimberley",
       "vin": "1FTFW1E82NFB72287",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Platinum 701A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/2b68eb97874c.html",
       "source_url": "https://www.melodyford.ca/used/2022-Ford-F_150-id13979842.html",
       "dealer_url": "https://www.melodyford.ca/used/2022-Ford-F_150-id13979842.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -538,14 +620,17 @@
       "odometer_km": 112812,
       "year": 2022,
       "make": "Ford",
-      "model": "F-150 Platinum 701A, 3.5L V6 ECO, 5.5' BOX, MOON ROOF, MAX TOW, FX4, HTD/COOLED BUCKET SEATS, TONNEAUin Kimberley",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 XLT 302A CREW CAB, 3.5L V6 ECO, 6.5' BOX, HTD BUCKET SEATS, B&O SOUND, SPORT PKG, MAX TRAILER TOWin Kimberley",
       "vin": "1FTFW1E88NKD46015",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "XLT 302A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/011531d559d6.html",
       "source_url": "https://www.melodyford.ca/used/2022-Ford-F_150-id14266823.html",
       "dealer_url": "https://www.melodyford.ca/used/2022-Ford-F_150-id14266823.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -555,8 +640,10 @@
       "odometer_km": 62874,
       "year": 2022,
       "make": "Ford",
-      "model": "F-150 XLT 302A CREW CAB, 3.5L V6 ECO, 6.5' BOX, HTD BUCKET SEATS, B&O SOUND, SPORT PKG, MAX TRAILER TOWin Kimberley",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 ",
@@ -572,7 +659,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco Sport ",
@@ -588,7 +677,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Expedition ",
@@ -603,7 +694,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2022 Ford F-150 ",
@@ -619,12 +712,15 @@
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Highlander XSE AWD, 3.5L V6, 7 PASS CONFIG, HEATED LEATHER SEATS, HTD WHEEL, SUNROOFin Kimberley",
       "vin": "5TDLZRBHXNS175645",
       "stock": "NUMBER",
+      "trim": "XSE",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/6c73646910c8.html",
       "source_url": "https://www.melodyford.ca/used/2022-Toyota-Highlander-id14199765.html",
       "dealer_url": "https://www.melodyford.ca/used/2022-Toyota-Highlander-id14199765.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -634,8 +730,10 @@
       "odometer_km": 125149,
       "year": 2022,
       "make": "Toyota",
-      "model": "Highlander XSE AWD, 3.5L V6, 7 PASS CONFIG, HEATED LEATHER SEATS, HTD WHEEL, SUNROOFin Kimberley",
-      "condition": "used"
+      "model": "Highlander",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Highlander ",
@@ -650,7 +748,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Highlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Highlander ",
@@ -665,13 +765,16 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Highlander",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 TREMOR 402A, 5.0L V8, 5.5' BOX, MOON ROOF, HTD/COOLED SEATS, HTD WHEEL, WINCH, BOARDS, SPRAY LINERin Kimberley",
       "vin": "1FTFW1E55PFA79465",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "TREMOR 402A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/6760031ff98c.html",
       "source_url": "https://www.melodyford.ca/used/2023-Ford-F_150-id13979839.html",
       "dealer_url": "https://www.melodyford.ca/used/2023-Ford-F_150-id13979839.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -681,8 +784,10 @@
       "odometer_km": 153542,
       "year": 2023,
       "make": "Ford",
-      "model": "F-150 TREMOR 402A, 5.0L V8, 5.5' BOX, MOON ROOF, HTD/COOLED SEATS, HTD WHEEL, WINCH, BOARDS, SPRAY LINERin Kimberley",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -698,7 +803,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2023 Ford F-150 ",
@@ -714,13 +821,16 @@
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Blazer RS, AWD, 3.6L V6, LEATHER HEATED SEATS, HTD WHEEL, PANORAMIC MOON ROOF, BEAUTIFUL CARin Kimberley",
       "vin": "3GNKBKRSXRS200383",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "RS",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/352a6e03bf0d.html",
       "source_url": "https://www.melodyford.ca/used/2024-Chevrolet-Blazer-id14255464.html",
       "dealer_url": "https://www.melodyford.ca/used/2024-Chevrolet-Blazer-id14255464.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -730,8 +840,10 @@
       "odometer_km": 25501,
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Blazer RS, AWD, 3.6L V6, LEATHER HEATED SEATS, HTD WHEEL, PANORAMIC MOON ROOF, BEAUTIFUL CARin Kimberley",
-      "condition": "used"
+      "model": "Blazer",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Blazer ",
@@ -747,7 +859,9 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Blazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Blazer ",
@@ -763,12 +877,15 @@
       "year": 2024,
       "make": "Chevrolet",
       "model": "Blazer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 XLTin Kimberley",
       "vin": "1FTFW3L86RFA54067",
       "stock": "NUMBER",
+      "trim": "XLTin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/2caca7100b47.html",
       "source_url": "https://www.melodyford.ca/used/2024-Ford-F_150-id14379337.html",
       "dealer_url": "https://www.melodyford.ca/used/2024-Ford-F_150-id14379337.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -777,13 +894,16 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Ford",
-      "model": "F-150 XLTin Kimberley",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 XLTin Kimberley",
       "vin": "1FTFW3L8XRFB87656",
       "stock": "NUMBER",
+      "trim": "XLTin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/db394d1f5c4d.html",
       "source_url": "https://www.melodyford.ca/used/2024-Ford-F_150-id14379338.html",
       "dealer_url": "https://www.melodyford.ca/used/2024-Ford-F_150-id14379338.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -792,8 +912,10 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Ford",
-      "model": "F-150 XLTin Kimberley",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 ",
@@ -808,7 +930,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 ",
@@ -823,13 +947,16 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Explorer Active, 2.3L I4 ECO, 4X4, 6 PASSENGER CONFIG, MIDDLE ROW BUCKETS, HEATED FRONT SEATS & WHEELin Kimberley",
       "vin": "1FMUK8DH6SGA94207",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Active",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/3b77d402b4f7.html",
       "source_url": "https://www.melodyford.ca/used/2025-Ford-Explorer-id14055175.html",
       "dealer_url": "https://www.melodyford.ca/used/2025-Ford-Explorer-id14055175.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -839,8 +966,10 @@
       "odometer_km": 48970,
       "year": 2025,
       "make": "Ford",
-      "model": "Explorer Active, 2.3L I4 ECO, 4X4, 6 PASSENGER CONFIG, MIDDLE ROW BUCKETS, HEATED FRONT SEATS & WHEELin Kimberley",
-      "condition": "used"
+      "model": "Explorer",
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Explorer ",
@@ -856,13 +985,16 @@
       "year": 2025,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape Active AWD, 1.5L I3 ECO, HTD SEATS & STEERING WHEEL, TECH PKG, ADAPTIVE CRUISE CONTROLin Kimberley",
       "vin": "1FMCU9GN7SUB15127",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Active",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/f53a66cd34f3.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2025-Ford-Escape-id13979798.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2025-Ford-Escape-id13979798.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -872,8 +1004,10 @@
       "odometer_km": 13962,
       "year": 2025,
       "make": "Ford",
-      "model": "Escape Active AWD, 1.5L I3 ECO, HTD SEATS & STEERING WHEEL, TECH PKG, ADAPTIVE CRUISE CONTROLin Kimberley",
-      "condition": "new"
+      "model": "Escape",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Explorer ",
@@ -889,7 +1023,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -905,7 +1041,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -921,7 +1059,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -937,7 +1077,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -953,7 +1095,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -969,7 +1113,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -985,7 +1131,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -1001,7 +1149,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -1017,7 +1167,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -1033,7 +1185,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -1049,12 +1203,15 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport BIG BEND 4X4, 1.5L I3 ECO, HEATED SEATS, BLACK DIAMOND PKG, CONV PKG, CROSS BARS, F/R MUD FLAPSin Kimberley",
       "vin": "3FMCR9BN0TRE03427",
       "stock": "NUMBER",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/2207f9c9efaa.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id13979806.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id13979806.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1063,13 +1220,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport BIG BEND 4X4, 1.5L I3 ECO, HEATED SEATS, BLACK DIAMOND PKG, CONV PKG, CROSS BARS, F/R MUD FLAPSin Kimberley",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport BIG BEND 4X4, 1.5L I3 ECO, HEATED SEATS, CONVENIENCE PKG, ROOF RAIL CROSS BARS, F/R MUD FLAPSin Kimberley",
       "vin": "3FMCR9BN4TRE02474",
       "stock": "NUMBER",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/a906ccc34822.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id13979809.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id13979809.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1078,13 +1238,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport BIG BEND 4X4, 1.5L I3 ECO, HEATED SEATS, CONVENIENCE PKG, ROOF RAIL CROSS BARS, F/R MUD FLAPSin Kimberley",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport OUTER BANKS 4X4, 1.5L I3 ECO, HEATED SEATS & STEERING WHEEL, MEMORY DRIVERS SEAT, TECH PKGin Kimberley",
       "vin": "3FMCR9CN9TRE41382",
       "stock": "NUMBER",
+      "trim": "OUTER BANKS",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/9b33042636e3.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id13979830.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id13979830.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1093,13 +1256,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport OUTER BANKS 4X4, 1.5L I3 ECO, HEATED SEATS & STEERING WHEEL, MEMORY DRIVERS SEAT, TECH PKGin Kimberley",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport BADLANDS ADVANCED 4X4, 2.0L I4 ECO, HTD SEATS & WHEEL, TECH PKG, MEMORY SEAT, MOONROOF, SEAT BACKSin Kimberley",
       "vin": "3FMCR9DA3TRE37789",
       "stock": "NUMBER",
+      "trim": "BADLANDS ADVANCED",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/ec437276cdaa.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id13979831.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id13979831.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1108,13 +1274,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport BADLANDS ADVANCED 4X4, 2.0L I4 ECO, HTD SEATS & WHEEL, TECH PKG, MEMORY SEAT, MOONROOF, SEAT BACKSin Kimberley",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport BIG BEND 4X4, 1.5L I3 ECO, HEATED SEATS, CONVENIENCE PKG, BRONZE PKG WITH 17\" SINISTER WHEELSin Kimberley",
       "vin": "3FMCR9BN7TRE70543",
       "stock": "NUMBER",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/c1daf51e7d6c.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id13979861.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id13979861.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1123,13 +1292,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport BIG BEND 4X4, 1.5L I3 ECO, HEATED SEATS, CONVENIENCE PKG, BRONZE PKG WITH 17\" SINISTER WHEELSin Kimberley",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport OUTER BANKS 4X4, 1.5L I3 ECO, HEATED SEATS & STEERING WHEEL, MEMORY DRIVERS SEAT, TECH PKGin Kimberley",
       "vin": "3FMCR9CN0TRE86923",
       "stock": "NUMBER",
+      "trim": "OUTER BANKS",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/59ab8896e0a8.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14062182.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14062182.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1138,13 +1310,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport OUTER BANKS 4X4, 1.5L I3 ECO, HEATED SEATS & STEERING WHEEL, MEMORY DRIVERS SEAT, TECH PKGin Kimberley",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport BADLANDS ADVANCED 4X4, 2.0L I4 ECO, HTD SEATS & WHEEL, BRONZE PKG, MEMORY SEAT, RUBBER SEAT BACK'Sin Kimberley",
       "vin": "3FMCR9DAXTRE84902",
       "stock": "NUMBER",
+      "trim": "BADLANDS ADVANCED",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/2185f021769f.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14128949.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14128949.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1153,13 +1328,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport BADLANDS ADVANCED 4X4, 2.0L I4 ECO, HTD SEATS & WHEEL, BRONZE PKG, MEMORY SEAT, RUBBER SEAT BACK'Sin Kimberley",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport OUTER BANKS 4X4, 1.5L I3 ECO, HEATED SEATS & STEERING WHEEL, MEMORY DRIVERS SEAT, INTERIOR PKGin Kimberley",
       "vin": "3FMCR9CN9TRE85902",
       "stock": "NUMBER",
+      "trim": "OUTER BANKS",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/d53cc47d93e3.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14160499.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14160499.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1168,13 +1346,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport OUTER BANKS 4X4, 1.5L I3 ECO, HEATED SEATS & STEERING WHEEL, MEMORY DRIVERS SEAT, INTERIOR PKGin Kimberley",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport BIG BEND 4X4, 1.5L I3 ECO, HEATED SEATS, CONVENIENCE PKGin Kimberley",
       "vin": "3FMCR9BN4TRE84920",
       "stock": "NUMBER",
+      "trim": "BIG BEND",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/3a2b392d3029.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14211425.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14211425.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1183,14 +1364,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport BIG BEND 4X4, 1.5L I3 ECO, HEATED SEATS, CONVENIENCE PKGin Kimberley",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport OUTER BANKS 4X4, 1.5L I3 ECO, HEATED SEATS & STEERING WHEEL, MEMORY DRIVERS SEATin Kimberley",
       "vin": "3FMCR9CN4TRF14545",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "OUTER BANKS",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/982197ed74aa.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14256274.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14256274.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1199,14 +1383,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport OUTER BANKS 4X4, 1.5L I3 ECO, HEATED SEATS & STEERING WHEEL, MEMORY DRIVERS SEATin Kimberley",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banksin Kimberley",
       "vin": "3FMCR9CN1TRF37149",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Outer Banksin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/4f4f27c7e4ab.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14373826.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14373826.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1215,14 +1402,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banksin Kimberley",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banksin Kimberley",
       "vin": "3FMCR9CN6TRF30987",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Outer Banksin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/38f0b207633b.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14405360.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14405360.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1231,14 +1421,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banksin Kimberley",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport Outer Banksin Kimberley",
       "vin": "3FMCR9CN0TRF25400",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Outer Banksin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/2d37c7ec9583.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14414278.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Bronco_Sport-id14414278.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1247,13 +1440,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banksin Kimberley",
-      "condition": "new"
+      "model": "Bronco Sport",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer Active w/200A Pkg, 2.3L I4 ECO, HEATED SEATS & STEERING WHEEL, MIDDLE ROW BENCH, 7 SEAT CONFIGin Kimberley",
       "vin": "1FMUK8DH2TGA84694",
       "stock": "NUMBER",
+      "trim": "Active",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/d2b7f7759f15.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Explorer-id13979805.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Explorer-id13979805.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1263,14 +1459,17 @@
       "odometer_km": 2450,
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer Active w/200A Pkg, 2.3L I4 ECO, HEATED SEATS & STEERING WHEEL, MIDDLE ROW BENCH, 7 SEAT CONFIGin Kimberley",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 STX 200A, 2.7L V6, 5.5' BOX, 20\" WHEELS, BLACK PKG, BUCKETS, TRAILER BRAKE, TOW/HAUL, RUNNING BOARDSin Kimberley",
       "vin": "1FTEW2LP0TKE08239",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "STX 200A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/0df8b3319946.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-F_150-id13986493.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-F_150-id13986493.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1279,14 +1478,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 STX 200A, 2.7L V6, 5.5' BOX, 20\" WHEELS, BLACK PKG, BUCKETS, TRAILER BRAKE, TOW/HAUL, RUNNING BOARDSin Kimberley",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLT 301A, 3.5L V6, 6.5' BOX, 18\" WHEELS, BLACK PKG, BUCKETS, TRAILER BRAKE, TOW/HAUL, RUNNING BOARDSin Kimberley",
       "vin": "1FTFW3L87TFB68909",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "XLT 301A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/e16b248a3b21.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-F_150-id14129790.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-F_150-id14129790.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1295,14 +1497,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLT 301A, 3.5L V6, 6.5' BOX, 18\" WHEELS, BLACK PKG, BUCKETS, TRAILER BRAKE, TOW/HAUL, RUNNING BOARDSin Kimberley",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLT 301A, 3.5L V6, 6.5' BOX, 18\" WHEELS, BLACK PKG, BUCKETS, TRAILER BRAKE, TOW/HAUL, RUNNING BOARDSin Kimberley",
       "vin": "1FTFW3L86TKE44455",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "XLT 301A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/ac6878a1e706.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-F_150-id14129791.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-F_150-id14129791.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1311,14 +1516,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLT 301A, 3.5L V6, 6.5' BOX, 18\" WHEELS, BLACK PKG, BUCKETS, TRAILER BRAKE, TOW/HAUL, RUNNING BOARDSin Kimberley",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 STX 200A, 3.5L V6 HYBRID, 5.5' BOX, 20\" WHEELS, SPORT PKG, BUCKETS, TRAILER BRAKE, TOW/HAUL, BOARDSin Kimberley",
       "vin": "1FTFW2LDXTFB56986",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "STX 200A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/822eee53af93.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-F_150-id14177395.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-F_150-id14177395.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1327,14 +1535,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 STX 200A, 3.5L V6 HYBRID, 5.5' BOX, 20\" WHEELS, SPORT PKG, BUCKETS, TRAILER BRAKE, TOW/HAUL, BOARDSin Kimberley",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Kimberley",
       "vin": "1FTEW3LP7TKE94462",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "XLTin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/d88470d0a9d0.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-F_150-id14373829.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-F_150-id14373829.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1343,14 +1554,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Kimberley",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 STXin Kimberley",
       "vin": "1FTEW2LP8TKE98272",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "STXin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/9dc6b769006c.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-F_150-id14432360.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-F_150-id14432360.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1359,13 +1573,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 STXin Kimberley",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick XLT 2.0L I4 ECO, AWD, BLK PKG, LUX PKG, 4K TOW, CO 360, SPRAY LINER, HTD SEATS & WHEEL, 19\" WHEELSin Kimberley",
       "vin": "3FTTW8JA3TRA97619",
       "stock": "NUMBER",
+      "trim": "XLT I4 ECO",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/fc4f0808141a.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Maverick-id14049215.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Maverick-id14049215.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1374,14 +1591,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Maverick XLT 2.0L I4 ECO, AWD, BLK PKG, LUX PKG, 4K TOW, CO 360, SPRAY LINER, HTD SEATS & WHEEL, 19\" WHEELSin Kimberley",
-      "condition": "new"
+      "model": "Maverick",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Maverick Lariatin Kimberley",
       "vin": "3FTTW8S37TRB65114",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Lariatin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/73dff1d20ad8.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Maverick-id14373827.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Maverick-id14373827.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1390,13 +1610,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Maverick Lariatin Kimberley",
-      "condition": "new"
+      "model": "Maverick",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang PREMIUM 2.3L HIGH OUTPUT I4 TURBO, 315 H.P-350 lb-ft TORQUE 0-60 IN 5 Seconds, LEATHER SEATSin Kimberley",
       "vin": "1FA6P8TH7T5114788",
       "stock": "NUMBER",
+      "trim": "PREMIUM HIGH OUTPUT I4 TURBO",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/04be457d7f80.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Mustang-id13979817.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Mustang-id13979817.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1405,13 +1628,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang PREMIUM 2.3L HIGH OUTPUT I4 TURBO, 315 H.P-350 lb-ft TORQUE 0-60 IN 5 Seconds, LEATHER SEATSin Kimberley",
-      "condition": "new"
+      "model": "Mustang",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E SELECT AWD, DUAL MOTOR, 88KWH EXTENDED RANGE, HTD SEATS & WHEEL, FRUNK, COMFORT PKG, TECH PKGin Kimberley",
       "vin": "3FMTK1SU9TMA24646",
       "stock": "NUMBER",
+      "trim": "SELECT",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/ab9841cd7fc7.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Mustang_Mach_E-id14263003.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Mustang_Mach_E-id14263003.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1420,14 +1646,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Mach-E SELECT AWD, DUAL MOTOR, 88KWH EXTENDED RANGE, HTD SEATS & WHEEL, FRUNK, COMFORT PKG, TECH PKGin Kimberley",
-      "condition": "new"
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger LARIAT 500A, 2.7L V6 ECO, BLK PKG, HTD LEATHER SEATS & WHEEL, TRAILER TOW, FX4, BOX STEPin Kimberley",
       "vin": "1FTER4KP4TLE14608",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "LARIAT 500A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/7f34917fdfe4.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id13979847.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id13979847.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1436,13 +1665,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger LARIAT 500A, 2.7L V6 ECO, BLK PKG, HTD LEATHER SEATS & WHEEL, TRAILER TOW, FX4, BOX STEPin Kimberley",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger XLT 301A, 2.7L V6 ECO, BLK PKG, HTD CLOTH SEATS, TRAILER TOW, BOX STEP, TECH PKG, CO 360, PRO 400Win Kimberley",
       "vin": "1FTER4HP5TLE31313",
       "stock": "NUMBER",
+      "trim": "XLT 301A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/4f46abecd493.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14062183.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14062183.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1451,14 +1683,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger XLT 301A, 2.7L V6 ECO, BLK PKG, HTD CLOTH SEATS, TRAILER TOW, BOX STEP, TECH PKG, CO 360, PRO 400Win Kimberley",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger LARIAT 500A, 2.7L V6 ECO, BLK PKG, HTD LEATHER SEATS & WHEEL, TRAILER TOW, BOX STEP, BED LINERin Kimberley",
       "vin": "1FTER4KP7TLE32665",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "LARIAT 500A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/f675c6ccbb97.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14128950.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14128950.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1467,14 +1702,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger LARIAT 500A, 2.7L V6 ECO, BLK PKG, HTD LEATHER SEATS & WHEEL, TRAILER TOW, BOX STEP, BED LINERin Kimberley",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger LARIAT 500A, 2.7L V6 ECO, BLK PKG, HTD LEATHER SEATS & WHEEL, TRAILER TOW, BOX STEP, BED LINERin Kimberley",
       "vin": "1FTER4KP7TLE32651",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "LARIAT 500A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/c9842cde412d.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14128958.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14128958.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1483,13 +1721,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger LARIAT 500A, 2.7L V6 ECO, BLK PKG, HTD LEATHER SEATS & WHEEL, TRAILER TOW, BOX STEP, BED LINERin Kimberley",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger XL 100A, 2.3L I4 ECO, STX APPEARANCE PKG, CO 360, BOX STEP, TOW/HAUL & BRAKE CONTROLLERin Kimberley",
       "vin": "1FTER4PH1TLE36258",
       "stock": "NUMBER",
+      "trim": "XL 100A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/89c363776330.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14172696.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14172696.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1498,13 +1739,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger XL 100A, 2.3L I4 ECO, STX APPEARANCE PKG, CO 360, BOX STEP, TOW/HAUL & BRAKE CONTROLLERin Kimberley",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger XLT 301A, 2.7L V6 ECO, BLK PKG, HTD CLOTH SEATS, TRAILER TOW, BOX STEP, TECH PKG, CO 360, FX4in Kimberley",
       "vin": "1FTER4HP4TLE35739",
       "stock": "NUMBER",
+      "trim": "XLT 301A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/66ef84924299.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14172697.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14172697.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1513,13 +1757,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger XLT 301A, 2.7L V6 ECO, BLK PKG, HTD CLOTH SEATS, TRAILER TOW, BOX STEP, TECH PKG, CO 360, FX4in Kimberley",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger XLT 301A, 2.3L I4 ECO, BLK PKG, HTD CLOTH SEATS, TRAILER TOW, BOX STEP, TECH PKG, CO 360, CONV PKGin Kimberley",
       "vin": "1FTER4HH7TLE38255",
       "stock": "NUMBER",
+      "trim": "XLT 301A",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/b19b9ae71403.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14263163.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14263163.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1528,14 +1775,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger XLT 301A, 2.3L I4 ECO, BLK PKG, HTD CLOTH SEATS, TRAILER TOW, BOX STEP, TECH PKG, CO 360, CONV PKGin Kimberley",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger XLTin Kimberley",
       "vin": "1FTER4HH0TLE54541",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "XLTin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/422965a13f66.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14373828.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14373828.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1544,14 +1794,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger XLTin Kimberley",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger XLin Kimberley",
       "vin": "1FTER4PHXTLE49591",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "XLin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/4e66c9d468c1.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14380309.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14380309.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1560,14 +1813,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger XLin Kimberley",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger XLTin Kimberley",
       "vin": "1FTER4HP5TLE48631",
       "stock": "NUMBER",
       "color": "Beige",
+      "trim": "XLTin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/7bb99842e54c.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14398558.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14398558.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1576,14 +1832,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger XLTin Kimberley",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger Lariatin Kimberley",
       "vin": "1FTER4KP4TLE47673",
       "stock": "NUMBER",
       "color": "Beige",
+      "trim": "Lariatin Kimberley",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/56c243bf9751.html",
       "source_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14398559.html",
       "dealer_url": "https://www.melodyford.ca/new/inventory/2026-Ford-Ranger-id14398559.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1592,8 +1851,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger Lariatin Kimberley",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1609,7 +1870,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1625,7 +1888,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1641,7 +1906,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1657,7 +1924,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1673,7 +1942,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1689,7 +1960,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1705,7 +1978,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1721,7 +1996,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1737,7 +2014,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1753,7 +2032,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1769,7 +2050,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1785,7 +2068,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kimberley",
+      "province": "BC"
     }
   ]
 }
