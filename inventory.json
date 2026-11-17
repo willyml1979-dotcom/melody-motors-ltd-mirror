@@ -1,6 +1,6 @@
 {
   "dealership": "Melody Motors Ltd",
-  "generated_at": "2026-11-17T12:29:07",
+  "generated_at": "2026-11-17T12:49:04",
   "vehicle_count": 81,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -375,17 +375,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2025 Ford Escape Active AWD, 1.5L I3 ECO, HTD SEATS & STEERING WHEEL, TECH PKG, ADAPTIVE CRUISE CONTROLin Kimberley",
-      "vin": "1FMCU9GN7SUB15127",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/f53a66cd34f3.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
-      "price": 35000.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Hyundai Kona Preferredin Kimberley",
       "vin": "KM8HCCABXSU326987",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/6d6cb56d8096.html",
@@ -441,6 +430,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford Bronco Badlandsin Kimberley",
+      "vin": "1FMEE9BH5TLB74787",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/1050a8e1e670.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco",
+      "condition": "new",
+      "price": 75245.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford Bronco Outer Banksin Kimberley",
+      "vin": "1FMEE8BP9TLB89021",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/dfad8e681e02.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Bronco",
+      "condition": "new",
+      "price": 75425.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Ford Bronco Sport BIG BEND - Choose 0% or $3750 Cash Savings!!!in Kimberley",
       "vin": "3FMCR9BN0TRE03427",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/2207f9c9efaa.html",
@@ -449,28 +460,6 @@
       "model": "Bronco Sport",
       "condition": "new",
       "price": 43050.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Sport OUTER BANKS - Choose 0% or $4750 Cash Savings!!!in Kimberley",
-      "vin": "3FMCR9CN9TRE41382",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/9b33042636e3.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 43390.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Sport BADLANDS - 0% Financing!!!in Kimberley",
-      "vin": "3FMCR9DA3TRE37789",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/ec437276cdaa.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 53740.0,
       "price_currency": "CAD"
     },
     {
@@ -492,7 +481,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 52295.0,
+      "price": 52045.0,
       "price_currency": "CAD"
     },
     {
@@ -503,7 +492,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 42335.0,
+      "price": 46835.0,
       "price_currency": "CAD"
     },
     {
@@ -514,7 +503,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 39410.0,
+      "price": 43660.0,
       "price_currency": "CAD"
     },
     {
@@ -525,29 +514,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 47790.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Sport Outer Banksin Kimberley",
-      "vin": "3FMCR9CN3TRF33328",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/db65f3735cf6.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 51355.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Sport Outer Banksin Kimberley",
-      "vin": "3FMCR9CN6TRF30987",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/47800326d5b9.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 49790.0,
+      "price": 47040.0,
       "price_currency": "CAD"
     },
     {
@@ -558,18 +525,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 44785.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Bronco Sport Outer Banks - Choose 0% or $4750 Fall Cash!!!in Kimberley",
-      "vin": "3FMCR9CN0TRF25400",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/93ce714ead52.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 42790.0,
+      "price": 49285.0,
       "price_currency": "CAD"
     },
     {
@@ -580,7 +536,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 44330.0,
+      "price": 48830.0,
       "price_currency": "CAD"
     },
     {
@@ -595,14 +551,25 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford Explorer ST, 3.0L H.O V6, HTD LEATHER SEATS & WHEEL, MIDDLE ROW LEATHER HTD BUCKETS, 6 SEAT CONFIGin Kimberley",
+      "vin": "1FMWK8GC6TGC08653",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/df717b634e73.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Explorer",
+      "condition": "new",
+      "price": 70345.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Ford F-150 XLT - Choose 0% or $8000 Cash Savings!!!in Kimberley",
-      "vin": "1FTFW3L87TFB68909",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/e16b248a3b21.html",
+      "vin": "1FTFW3L89TKE02684",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/45450b8f203f.html",
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 63535.0,
+      "price": 80760.0,
       "price_currency": "CAD"
     },
     {
@@ -613,7 +580,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 64435.0,
+      "price": 75685.0,
       "price_currency": "CAD"
     },
     {
@@ -628,6 +595,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford F-150 LOBO STX - Choose 0% or $7000 Cash Savings!!!in Kimberley",
+      "vin": "1FTEW2L54TFB68233",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/02053f82426c.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 79245.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 LOBO STX - Choose 0% or $7000 Cash Savings!!!in Kimberley",
+      "vin": "1FTEW2L50TFC04273",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/06e3bc33cd1b.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 78480.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLT - Choose 0% or $8000 Cash Savings!!!in Kimberley",
+      "vin": "1FTEW3LP5TKE98705",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/5a1f5b107220.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 78355.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Ford F-150 STX - Choose 0% or $7000 Cash Savings!!!in Kimberley",
       "vin": "1FTEW2LP8TKE98272",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/9dc6b769006c.html",
@@ -635,29 +635,18 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 60260.0,
+      "price": 69510.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Ford F-150 XLT - Choose 0% or $8000 Fall Cash!!!in Kimberley",
-      "vin": "1FTFW3L85TKD31564",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/0871720e9117.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 62245.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford F-150 Hybrid STX - Choose 0% or $7000 Fall Cash!!!in Kimberley",
-      "vin": "1FTFW2LD6TFC29545",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/b55bca579109.html",
+      "name": "New 2026 Ford F-150 Hybrid XLTin Kimberley",
+      "vin": "1FTFW3LD2TFC25529",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/e05c0518ffe7.html",
       "year": 2026,
       "make": "Ford",
       "model": "F-150 Hybrid",
       "condition": "new",
-      "price": 64285.0,
+      "price": 79030.0,
       "price_currency": "CAD"
     },
     {
@@ -683,14 +672,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Ford Mustang PREMIUM 2.3L HIGH OUTPUT I4 TURBO, 315 H.P-350 lb-ft TORQUE 0-60 IN 5 Seconds, LEATHER SEATSin Kimberley",
-      "vin": "1FA6P8TH7T5114788",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/04be457d7f80.html",
+      "name": "New 2026 Ford Maverick Tremorin Kimberley",
+      "vin": "3FTTW8NAXTRB17777",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/9d234b4ad66e.html",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang",
+      "model": "Maverick",
       "condition": "new",
-      "price": 51640.0,
+      "price": 51495.0,
       "price_currency": "CAD"
     },
     {
@@ -701,7 +690,7 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 54650.0,
+      "price": 56150.0,
       "price_currency": "CAD"
     },
     {
@@ -712,7 +701,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 64795.0,
+      "price": 61745.0,
       "price_currency": "CAD"
     },
     {
@@ -723,7 +712,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 60645.0,
+      "price": 61995.0,
       "price_currency": "CAD"
     },
     {
@@ -734,7 +723,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 66005.0,
+      "price": 62955.0,
       "price_currency": "CAD"
     },
     {
@@ -745,18 +734,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 66005.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Ford Ranger XL 100A, 2.3L I4 ECO, STX APPEARANCE PKG, CO 360, BOX STEP, TOW/HAUL & BRAKE CONTROLLERin Kimberley",
-      "vin": "1FTER4PH1TLE36258",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/89c363776330.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 49785.0,
+      "price": 62955.0,
       "price_currency": "CAD"
     },
     {
@@ -782,14 +760,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Ford Ranger XLTin Kimberley",
-      "vin": "1FTER4HP5TLE48631",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/7bb99842e54c.html",
+      "name": "New 2026 Ford Ranger Lariatin Kimberley",
+      "vin": "1FTER4KP4TLE47673",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/56c243bf9751.html",
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 62395.0,
+      "price": 63405.0,
       "price_currency": "CAD"
     },
     {
@@ -817,12 +795,12 @@
     {
       "name": "New 2026 Ford Ranger XLTin Kimberley",
       "vin": "1FTER4HH9TLE56837",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/e5898db75758.html",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/d99bb19018a4.html",
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 59400.0,
+      "price": 60750.0,
       "price_currency": "CAD"
     },
     {
@@ -834,6 +812,28 @@
       "model": "Seltos",
       "condition": "used",
       "price": 32495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Explorer Tremorin Kimberley",
+      "vin": "1FMUK8JH0VGA84281",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/86ca2c767a54.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Explorer",
+      "condition": "new",
+      "price": 66492.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Transit Cargo Van Basein Kimberley",
+      "vin": "1FTBF6XG0VKA14814",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/6a26d105600e.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Transit Cargo",
+      "condition": "new",
+      "price": 81135.0,
       "price_currency": "CAD"
     }
   ]
