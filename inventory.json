@@ -1,6 +1,6 @@
 {
   "dealership": "Melody Motors Ltd",
-  "generated_at": "2026-11-18T02:46:32",
+  "generated_at": "2026-11-18T02:50:43",
   "vehicle_count": 81,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -456,7 +456,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 43050.0,
+      "price": 46550.0,
       "price_currency": "CAD"
     },
     {
@@ -467,7 +467,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 44830.0,
+      "price": 49330.0,
       "price_currency": "CAD"
     },
     {
@@ -544,7 +544,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 48340.0,
+      "price": 47590.0,
       "price_currency": "CAD"
     },
     {
@@ -588,7 +588,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 66295.0,
+      "price": 75545.0,
       "price_currency": "CAD"
     },
     {
@@ -742,7 +742,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 61695.0,
+      "price": 63045.0,
       "price_currency": "CAD"
     },
     {
@@ -753,7 +753,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 58800.0,
+      "price": 60150.0,
       "price_currency": "CAD"
     },
     {
@@ -775,7 +775,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 54690.0,
+      "price": 56040.0,
       "price_currency": "CAD"
     },
     {
@@ -786,7 +786,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 49785.0,
+      "price": 47535.0,
       "price_currency": "CAD"
     },
     {
