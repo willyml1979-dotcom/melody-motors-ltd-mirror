@@ -1,6 +1,6 @@
 {
   "dealership": "Melody Motors Ltd",
-  "generated_at": "2026-11-18T11:29:34",
+  "generated_at": "2026-11-18T11:32:58",
   "vehicle_count": 81,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -636,6 +636,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford F-150 4x4 Supercrew-145in Kimberley",
+      "vin": "1FTEW3LP7TKE94462",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/cd56783d41d6.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 70990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Ford F-150 Hybrid XLTin Kimberley",
       "vin": "1FTFW3LD2TFC25529",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/e05c0518ffe7.html",
@@ -820,17 +831,6 @@
       "model": "Explorer",
       "condition": "new",
       "price": 66492.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Ford Transit Cargo Van Basein Kimberley",
-      "vin": "1FTBF6XG0VKA14814",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/new/6a26d105600e.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "Transit Cargo",
-      "condition": "new",
-      "price": 81135.0,
       "price_currency": "CAD"
     }
   ]
