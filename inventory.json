@@ -1,6 +1,6 @@
 {
   "dealership": "Melody Motors Ltd",
-  "generated_at": "2026-11-17T12:49:04",
+  "generated_at": "2026-11-18T02:46:32",
   "vehicle_count": 81,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -115,6 +115,14 @@
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/b58ba86692b9.html",
       "condition": "used",
       "price": 32495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Explorer 2025 for salein Kimberley",
+      "vin": "1FMUK8DH6SGA94207",
+      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/05c6bd0df213.html",
+      "condition": "used",
+      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
@@ -360,18 +368,7 @@
       "make": "Ford",
       "model": "Explorer",
       "condition": "used",
-      "price": 44500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Explorer ",
-      "vin": "1FMUK8DH6SGA94207",
-      "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/05c6bd0df213.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "used",
-      "price": 44500.0,
+      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
