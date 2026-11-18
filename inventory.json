@@ -1,6 +1,6 @@
 {
   "dealership": "Melody Motors Ltd",
-  "generated_at": "2026-11-18T02:50:43",
+  "generated_at": "2026-11-18T11:29:34",
   "vehicle_count": 81,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -154,7 +154,7 @@
       "vin": "5TFLA5DB4SX276548",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/d6a53d8d1a05.html",
       "condition": "used",
-      "price": 55995.0,
+      "price": 55495.0,
       "price_currency": "CAD"
     },
     {
@@ -412,7 +412,7 @@
       "make": "Toyota",
       "model": "Tundra",
       "condition": "used",
-      "price": 55995.0,
+      "price": 55495.0,
       "price_currency": "CAD"
     },
     {
