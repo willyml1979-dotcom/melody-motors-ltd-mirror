@@ -1,6 +1,6 @@
 {
   "dealership": "Melody Motors Ltd",
-  "generated_at": "2026-11-18T11:32:58",
+  "generated_at": "2026-11-18T21:59:28",
   "vehicle_count": 81,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -26,7 +26,7 @@
       "vin": "KMHD04LB7LU038209",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/bc34b18a7919.html",
       "condition": "used",
-      "price": 16995.0,
+      "price": 16495.0,
       "price_currency": "CAD"
     },
     {
@@ -58,7 +58,7 @@
       "vin": "1FTFW1E55PFA79465",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/9f603458ab34.html",
       "condition": "used",
-      "price": 51995.0,
+      "price": 49995.0,
       "price_currency": "CAD"
     },
     {
@@ -79,10 +79,10 @@
     },
     {
       "name": "Ford F-150 2024 for salein Kimberley",
-      "vin": "1FTFW5L8XRFA06728",
+      "vin": "1FTFW3L86RFA54067",
       "url": "https://willyml1979-dotcom.github.io/melody-motors-ltd-mirror/used/4426847c656a.html",
       "condition": "used",
-      "price": 57995.0,
+      "price": 56900.0,
       "price_currency": "CAD"
     },
     {
@@ -203,7 +203,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 16995.0,
+      "price": 16495.0,
       "price_currency": "CAD"
     },
     {
@@ -247,7 +247,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 51995.0,
+      "price": 49995.0,
       "price_currency": "CAD"
     },
     {
@@ -291,7 +291,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 58900.0,
+      "price": 56900.0,
       "price_currency": "CAD"
     },
     {
